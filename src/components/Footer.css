@@ -1,0 +1,7 @@
+.footer_a {
+  text-decoration: none;
+}
+
+.footer_a:hover {
+  text-decoration: underline;
+}
