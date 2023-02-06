@@ -1,0 +1,26 @@
+@media screen and (max-width: 480px) {
+  .edit_input {
+    width: 130px;
+  }
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .edit_input {
+    width: 250px;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .edit_input {
+    width: 350px;
+  }
+}
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  .edit_input {
+    width: 450px;
+  }
+}
+@media screen and (min-width: 1201px) and (max-width: 1500px) {
+  .edit_input {
+    width: 550px;
+  }
+}
