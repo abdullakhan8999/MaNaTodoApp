@@ -8,7 +8,11 @@ export default function Footer() {
       <p>© 2022 Company, Inc. All rights reserved.</p>
       <ul className="list-unstyled d-flex">
         <li className="ms-3">
-          <Link className="text-light  text-capitalize" to="#">
+          <Link
+            
+            className="text-light text-capitalize footer_a"
+            to="#"
+          >
             twitter
             <img
               src="https://img.icons8.com/color/2x/twitter--v3.png"
@@ -20,7 +24,7 @@ export default function Footer() {
           </Link>
         </li>
         <li className="ms-3">
-          <Link className="text-light text-capitalize text-capitalize" to="#">
+          <Link className="text-light text-capitalize footer_a" to="#">
             instagram
             <img
               src="https://img.icons8.com/color/512/instagram-new.png"
@@ -32,7 +36,7 @@ export default function Footer() {
           </Link>
         </li>
         <li className="ms-3">
-          <Link className="text-light text-capitalize text-capitalize" to="#">
+          <Link className="text-light text-capitalize footer_a" to="#">
             facebook
             <img
               src="https://img.icons8.com/color/2x/facebook.png"

@@ -3,10 +3,11 @@
   font-size: 36px;
   font-weight: bold;
   margin-top: 50px;
+  letter-spacing: 5px;
+  margin-top: 120px;
 }
 
-.about_p {
-  text-align: center;
-  font-size: 18px;
-  margin: 50px;
+.about_ul {
+  font-size: 25px;
+  margin: 30px;
 }
